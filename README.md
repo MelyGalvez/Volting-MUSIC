@@ -1,6 +1,6 @@
 # Volting-MUSIC
-Ce GitHub contient l'ensemble des codes et ressources du projet Volting-MUSIC qui consiste en l'étude et la conception d’une enveloppe vibratoire et sonore pour étudier une assistance à la mobilité corporelle.
+Ce dépôt GitHub regroupe l’ensemble des codes et ressources liés au projet Volting-MUSIC, consacré à l’étude et à la conception d’une enveloppe vibratoire et sonore destinée à explorer de nouvelles formes d’assistance à la mobilité corporelle.
 
-Pour comprendre les différentes informations de ce GitHub et notamment son arborescence, il est nécessaire de suivre le projet sur le site suivant:
+Pour une compréhension complète du projet, notamment de la structure des fichiers et de l’arborescence du dépôt, nous vous invitons à consulter le site suivant :
 
 https://projet-volting-instrument-de-musique.notion.site/
