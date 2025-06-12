@@ -9,7 +9,7 @@ ser = serial.Serial('COM8', 115200, timeout=1)
 
 # Création du chemin du fichier CSV avec un nom basé sur la date et l'heure
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-path = rf"C:\Users\userlisv\Desktop\Projet Volting Instrument\Mesures Volting\Mesures\donnees_volting_{timestamp}.csv"
+path = rf"C:\Users\userlisv\Desktop\Projet Volting Instrument\Prototype V2\Résultats\Mesures de la maîtrise fauteil mécanique\donnees_volting_{timestamp}.csv"
 
 # Ouverture du fichier CSV en écriture
 with open(path, 'w', newline='') as csvfile:
